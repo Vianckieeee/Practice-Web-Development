@@ -173,7 +173,12 @@
   margin-bottom: 20px;
   display: block;
 }
-
+img[value="1"]{
+  height: 30px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 
 
